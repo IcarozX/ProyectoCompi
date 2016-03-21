@@ -1,0 +1,6 @@
+F:\MiniC#2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LexerProyecto.cs
+F:\MiniC#2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ParserProyecto.cs
+F:\MiniC#2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ParserProyectoListener.cs
+F:\MiniC#2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ParserProyectoBaseListener.cs
+F:\MiniC#2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ParserProyectoVisitor.cs
+F:\MiniC#2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ParserProyectoBaseVisitor.cs
